@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Live site URL]()
+- Live Site URL: [Live site URL](https://hassanakhtar8.github.io/social-proof-section/)
 
 
 ### Built with
